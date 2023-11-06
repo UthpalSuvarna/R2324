@@ -1,7 +1,7 @@
-import fossimage from "../assets/image.png";
+import fossimage from "../assets/featured-open-source.png";
 export default function Fossinfo() {
   return (
-    <div className=" py-32 px-44">
+    <div className="px-44 py-24">
       <div className="flex justify-around">
         <img src={fossimage} alt="" className="h-96" />
         <div>
